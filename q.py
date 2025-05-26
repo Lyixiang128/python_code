@@ -11,4 +11,5 @@ x = txt.expandtabs(2)
 
 print(x)
 awd1
+fa 
 
